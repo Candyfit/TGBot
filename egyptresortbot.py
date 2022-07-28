@@ -7,9 +7,8 @@ from telebot import types
 from datetime import date
 from bs4 import BeautifulSoup as b
 
-bot = telebot.TeleBot('5415231576:AAH4zR0DZwwiCTwjgxcfRkIqKbHtsMl1QUs')
+bot = telebot.TeleBot('токен')
 
-URL = 'https://tophotels.ru/hotels/12/7?cat=10_9_23&sort=-popular'
 
 c_date = date.today()
 
