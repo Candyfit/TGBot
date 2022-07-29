@@ -7,7 +7,7 @@ from telebot import types
 from datetime import date
 from bs4 import BeautifulSoup as b
 
-bot = telebot.TeleBot('5415231576:AAH4zR0DZwwiCTwjgxcfRkIqKbHtsMl1QUs')
+bot = telebot.TeleBot('token')
 
 
 c_date = date.today()
